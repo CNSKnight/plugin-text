@@ -2,7 +2,7 @@
   "name": "systemjs-plugin-text",
   "homepage": "https://github.com/CNSKnight/systemjs-plugin-text",
   "authors": [
-    "Nick Eddy <eddy.nicholas@gmail.com> ()"
+    "Nick Eddy <eddy.nicholas@gmail.com> ()",
     "Codename: Steeve Knight <steeve@dharmiweb.net> ()"
   ],
   "main": "text",
