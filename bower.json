@@ -1,0 +1,21 @@
+{
+  "name": "plugin-text",
+  "version": "0.0.4",
+  "homepage": "https://github.com/BioComputing/plugin-text",
+  "authors": [
+    "Nick Eddy <eddy.nicholas@gmail.com>"
+  ],
+  "main": "text",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "New BSD",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
