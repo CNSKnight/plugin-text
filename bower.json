@@ -1,9 +1,9 @@
 {
-  "name": "plugin-text",
-  "version": "0.0.4",
-  "homepage": "https://github.com/BioComputing/plugin-text",
+  "name": "systemjs-plugin-text",
+  "homepage": "https://github.com/CNSKnight/systemjs-plugin-text",
   "authors": [
-    "Nick Eddy <eddy.nicholas@gmail.com>"
+    "Nick Eddy <eddy.nicholas@gmail.com> ()"
+    "Codename: Steeve Knight <steeve@dharmiweb.net> ()"
   ],
   "main": "text",
   "moduleType": [
@@ -17,5 +17,12 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "keywords": [
+    "systemjs",
+    "plugin",
+    "text",
+    "template"
+    ],
+    
 }
