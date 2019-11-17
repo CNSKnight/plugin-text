@@ -1,4 +1,5 @@
 {
   "name": "systemjs-plugin-text",
-  "main": "text"
+  "main": "text",
+  "version": "0.0.2"
 }
